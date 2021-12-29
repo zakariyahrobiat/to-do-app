@@ -78,13 +78,13 @@ li{
 }
 @media(max-width:1051px){
     .section{
-        margin-left: 250px;
-        margin-right: 250px;
+        margin-left: 260px;
+        margin-right: 260px;
         width: 460px;
     }
     #list{
-        margin-left: 250px;
-        margin-right: 250px;
+        margin-left: 260px;
+        margin-right: 260px;
         width: 460px;
     }
     #input{
